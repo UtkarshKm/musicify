@@ -43,7 +43,6 @@ const NavBar = ({className}: {className?: string}) => {
 					></MenuItem>
 				</Link>
 			</Menu>
-			NavBar
 		</div>
 	);
 };
