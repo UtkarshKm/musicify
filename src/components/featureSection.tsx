@@ -21,7 +21,7 @@ const FeatureSection = () => {
 	);
 	return (
 		<div className="py-12 bg-gray-900">
-			<div className=" text-center ">
+			<div className=" text-center py-4  ">
 				<h2 className="text-base text-purple-600 font-semibold uppercase tracking-wide">
 					Learn Form Experts
 				</h2>
