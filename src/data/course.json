@@ -77,7 +77,7 @@
 			"description": "Create compelling electronic music with our course designed for beginners to advanced users.",
 			"price": 169.99,
 			"instructor": "Luke Harris",
-			"isFeatured": true,
+			"isFeatured": false,
 			"image": "https://images.unsplash.com/photo-1617833140106-f85990a942bf?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 		},
 		{
