@@ -3,6 +3,8 @@ import HeroSection from "@/components/heroSection";
 import Testimony from "@/components/Testimony";
 import UpcomingWebinar from "@/components/UpcomingWebinar";
 import StickyScrollRevealDemo from "@/components/WhyChooseUs";
+import Instructor from "@/components/Instructor";
+import Footer from "@/components/Footer";
 
 
 
@@ -14,6 +16,9 @@ export default function Home() {
 			<StickyScrollRevealDemo />
 			<Testimony />
 			<UpcomingWebinar />
+			<Instructor/>
+			<Footer />
+			
 		</main>
 	);
 }
